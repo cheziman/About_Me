@@ -1,8 +1,16 @@
-## Hi! I am Chezi, thanks for visiting me!
+## Hello! I am Chezi, Welcome to my page and thanks for visiting me!
 
-### About me:
+You can to reach me at:
+
+[![image](https://img.shields.io/badge/Chezi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chezi-mana/ "my LinkedIn")
+[![image](https://img.shields.io/badge/CheziMana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chezimana@gmail.com/ "my Gmail")
+
+## Click here to jump to my Data Analysis projects
+
+
+## About me:
 I am a fresh graduate of the **Data Analysis program by Yandex P100**, looking for my first job in the infinite world of data :globe_with_meridians:
-#### Skills — In my arsenal you can find skills like:
+### Skills — In my arsenal you can find skills like:
 - **Python** | Pandas | Matplotlib | Seaborn | Plotly | Sklearn | Regex and string manipulation | **SQL** | **Tableau**  and much much more!
 
 **Other skills** - I am also experienced in many different subjects, both as proffessional services, and hobbies:
@@ -20,9 +28,6 @@ I would love to connect and chat! so please feel free to reach me at:
 [![image](https://img.shields.io/badge/Chezi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chezi-mana/ "my LinkedIn")
 [![image](https://img.shields.io/badge/CheziMana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chezimana@gmail.com/ "my Gmail")
 
-
-so now that you know me,
-### Here are my Data Analysis projects
 
 <!--
 **cheziman/cheziman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
