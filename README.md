@@ -1,11 +1,6 @@
 ## Hello! I am Chezi, Welcome to my page and thanks for visiting me!
+# [Click here to check out my Data Analysis projects](https://github.com/cheziman/My_Projects)
 
-I would love to connect and chat! so please feel free to reach me at:
-
-[![image](https://img.shields.io/badge/Chezi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chezi-mana/ "my LinkedIn")
-[![image](https://img.shields.io/badge/CheziMana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chezimana@gmail.com/ "my Gmail")
-
-## [Click here to jump to my Data Analysis projects](https://github.com/cheziman/My_Projects)
 
 
 ## About me:
@@ -22,6 +17,14 @@ I am a fresh graduate of the **Data Analysis program by Yandex P100**, looking f
 
 #### Some of my hobbies, passions, and just things i love to talk about are:
 Gaming, Coffee, Cooking and Baking, Travel, Photography, Tech and gadgets and more and more!
+
+
+
+I would love to connect and chat! so please feel free to reach me at:
+
+[![image](https://img.shields.io/badge/Chezi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chezi-mana/ "my LinkedIn")
+[![image](https://img.shields.io/badge/CheziMana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chezimana@gmail.com/ "my Gmail")
+
 
 <!--
 **cheziman/cheziman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
