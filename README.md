@@ -5,7 +5,7 @@ You can to reach me at:
 [![image](https://img.shields.io/badge/Chezi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chezi-mana/ "my LinkedIn")
 [![image](https://img.shields.io/badge/CheziMana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chezimana@gmail.com/ "my Gmail")
 
-## Click here to jump to my Data Analysis projects
+## [Click here to jump to my Data Analysis projects](https://github.com/cheziman/My_Projects)
 
 
 ## About me:
