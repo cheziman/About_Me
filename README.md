@@ -1,8 +1,29 @@
-### Hi there 👋
+## Hi! I am Chezi, thanks for visiting me!
 
-This is a section to tell you a few words about me
+### About me:
+I am a fresh graduate of the **Data Analysis program by Yandex P100**, looking for my first job in the infinite world of data :globe_with_meridians:
+#### Skills — In my arsenal you can find skills like:
+- **Python** | Pandas | Matplotlib | Seaborn | Plotly | Sklearn | Regex and string manipulation | **SQL** | **Tableau**  and much much more!
 
-sooner or later it's gonna happen :wink:
+**Other skills** - I am also experienced in many different subjects, both as proffessional services, and hobbies:
+- Technical
+  - Photpgrapy, Photoshop, Maya, Video editing, Chemical + digital printing, PC bulding, Food&Bev, Latte art, cooking, and more.
+- various
+  -  Management, Sales and Customer service, Team leading,  hospitality and tourism, operations, and more!
+- Soft
+
+#### Some of my hobbies, passions, and just things i love to talk about are:
+Gaming, Coffee, Cooking and Baking, Travel, Photography, Tech and gadgets and more and more!
+
+I would love to connect and chat! so please feel free to reach me at:
+
+[![image](https://img.shields.io/badge/Chezi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chezi-mana/ "my LinkedIn")
+[![image](https://img.shields.io/badge/CheziMana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chezimana@gmail.com/ "my Gmail")
+
+
+so now that you know me,
+### Here are my Data Analysis projects
+
 <!--
 **cheziman/cheziman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
