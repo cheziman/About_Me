@@ -1,4 +1,4 @@
-## Hello! I am Chezi, Welcome to my page and thanks for visiting me!
+## Hello! I am Chezi, Welcome to my GitHub page and thanks for visiting me!
 # [Click here to check out my Data Analysis projects](https://github.com/cheziman/My_Projects)
 
 
